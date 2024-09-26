@@ -33,8 +33,8 @@ body{
         box-shadow: 5px 5px 20px orangered;
         border-radius: 50%;
         position: absolute;
-        bottom: 0px;
-        left: 1000px;
+        margin-top: 60px;
+        left: 900px;
 }
 .smallcont{
     display: inline-block;
@@ -54,6 +54,7 @@ top: 75px;
     top:75px ;
     }
     .foottable{
+        display: flex;
         margin: 20vh;
         padding: 20px;
         border: 2px solid black;
